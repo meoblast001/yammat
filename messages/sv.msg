@@ -9,3 +9,14 @@ ItemUnknown: Förenåd obekant
 PurchaseSuccessCash price@Int currency@Text: Skål. Betala #{currency} #{formatIntCurrency price} #{currency} kontant tack.
 ItemDisappeared: Föremål försvann o_0
 Amount: Mängd
+EditSuccess: Editering lyckad
+EditFail: Editering inte möjlig
+Name: Namn
+Price: Pris
+CurrentStock: Aktuellt bestånd
+AnnouncedStock: Meddeladt bestånd
+DeleteItem: Radera föremål
+ItemDeleted: Föremål raderad
+UserCreated: Skapade användare
+UserNotCreated: Användaren kunde inte skappas
+EmailNotify: Inträd en E-Mail-adress om du vill få meddelanden

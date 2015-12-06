@@ -19,7 +19,7 @@ DeleteItem: Delete Item
 ItemDeleted: Item deleted
 UserCreated: User created
 UserNotCreated: Could not create user
-EmailNotify: enter eMail if you want notifications
+EmailNotify: Enter e-mail if you want notifications
 BuyNotification: Notify on purchase
 UserEdited: User edited
 UserNotEdited: Could not edit user
