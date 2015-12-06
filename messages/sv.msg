@@ -20,3 +20,19 @@ ItemDeleted: Föremål raderad
 UserCreated: Skapade användare
 UserNotCreated: Användaren kunde inte skappas
 EmailNotify: Inträd en E-Mail-adress om du vill få meddelanden
+BuyNotification: Meddela köpar
+UserEdited: Användaredatan editerades
+UserNotEdited: Editering av användaredatan misslyckades
+Payout desc@Text: Utbetalning: #{desc}
+PaidOut: Belopp utbetalades
+NotPaidOut: Utbetalning inte möjlig
+Value: Belopp
+Description: Beskrivning
+StockedUp: Beståndet fylldes
+NotStockedUp: Beståndet kann inte fyllas negativt
+StockupError: Fel medan fyllningen
+AmountAdded: Tillagd mängd
+
+Submit: Insända
+
+SelectAvatar: Välja avatarn
