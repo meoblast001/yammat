@@ -66,7 +66,7 @@ ReactivateUser: Nutzer reaktivieren
 Recharge: Guthaben aufladen
 CurrentCharge charge@Int currency@Text: aktuelles Guthaben: #{formatIntCurrency charge} #{currency}
 AddItem: neuen Artikel hinzufügen
-EditUser: Nutzerdaten akutalisieren
+EditUser: Nutzerdaten aktualisieren
 ChoosePrompt text@Text: Wähle deinen Artikel, #{text}
 SelectItem: Wähle deinen Artikel
 CurrentAmount: Aktuelle Anzahl
@@ -141,3 +141,4 @@ BuyValue: Zahlbetrag
 CustomerId: Kundennummer
 TotalCrates: Gesamtanzahl Kästen
 Modify: bearbeiten
+UserIdentNotUnique: Benutzername ist nicht einzigartig
