@@ -32,7 +32,16 @@ StockedUp: Beståndet fylldes
 NotStockedUp: Beståndet kann inte fyllas negativt
 StockupError: Fel medan fyllningen
 AmountAdded: Tillagd mängd
+ItemAdded: Nytt föremål tillades
+ItemNotAdded: Fel vid tillägg av föremålet
+AmountWarning: Varning med mängd
+Recharged: Saldoomladdning lyckad!
+RechargeError: Fel vid Omladdning av Saldo
+CashCheck: Kassarevision
+CashChecked: Kassarevisionen utfördes. Kassa uppdaterade.
+CashCheckError: Fel vid kassarevision
 
 Submit: Insända
+Home: Hemsida
 
 SelectAvatar: Välja avatarn

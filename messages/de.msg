@@ -38,7 +38,7 @@ AmountWarning: Warnung bei Anzahl
 Recharged: Guthaben erfolgreich aufgeladen
 RechargeError: Fehler beim Aufladen
 CashCheck: Kassensturz
-CashChecked: Kassensturz durchgeführt. Kasse aktualisiert
+CashChecked: Kassensturz durchgeführt. Kasse aktualisiert.
 CashCheckError: Fehler im Kassensturz
 CountedValue: Gezählter Betrag
 PurchaseOf name@Text: Kauf von #{name}
@@ -46,7 +46,7 @@ PricePerUnit price@Int currency@Text: Preis pro Einheit: #{formatIntCurrency pri
 Purchase: Kaufen
 PleaseCountAndCheck: Bitte Kasse zählen und gezählten Betrag in unten stehendes Feld eintragen.
 Submit: Absenden
-Home: Nachhause
+Home: Hauptseite
 Restock: Lager befüllen
 Journal: Journal
 Summary: Inventar
